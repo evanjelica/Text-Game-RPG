@@ -14,8 +14,10 @@ public class Game{
         Scanner scanner = new Scanner(System.in);
         Player player = new Player();
 
+        System.out.println("\n\n********** Text-Game-RPG **********");
+        System.out.println("********* just for funzies *********");
 
-        System.out.println("Hello.");
+        System.out.println("\n\nHello.");
         System.out.println("What is your name?");
         String name = scanner.nextLine();
 
